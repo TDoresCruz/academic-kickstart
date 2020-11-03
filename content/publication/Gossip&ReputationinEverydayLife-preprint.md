@@ -12,10 +12,10 @@ authors:
 - Paul A.M. Van Lange
 - Bianca Beersma
 - Daniel Balliet
-date: "03-06-2020"
+date: "10-01-2020"
 doi: "10.31234/osf.io/y79qk"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-06T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

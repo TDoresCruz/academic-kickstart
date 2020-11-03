@@ -26,6 +26,7 @@ Interests:
 - Unethical Behavior
 - Reciprocity
 - Social Norms
+- Social Evaluation
 
 Education:
   courses:
@@ -78,7 +79,7 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. I study gossip in Bianca Beersma's ERC-Consolidator Grant Project [FORCE-OF-GOSSIP][]. I am also the student-representative for the [Kurt Lewin Institute][] 
+I am a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. I study gossip in Bianca Beersma's ERC-Consolidator Grant Project [FORCE-OF-GOSSIP][]. I am also the student-representative for the [Kurt Lewin Institute][]. 
 [FORCE-OF-GOSSIP]: https://bit.ly/force-gossip
 [Kurt Lewin Institute]: https://kurtlewininstituut.nl
 

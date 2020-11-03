@@ -1,5 +1,5 @@
 ---
-title: Symposium on The Functions of Gossip - Insights from the Lab and the Field
+title: Symposium on The Functions of Gossip - Insights from the Lab and the Field [POSTPONED - DATE CURRENTLY UNANNOUNCED]
 event: 19th General Meeting of the Europeans Association of Social Psychology (EASP)
 event_url: https://easp2020krakow.com
 location: Krakow, Poland
@@ -8,7 +8,7 @@ abstract: "Gossip, defined as communication about an absent person, is often cha
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-07T00:00:00Z"
+date: "2021-06-30T00:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 

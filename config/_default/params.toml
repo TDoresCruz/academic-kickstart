@@ -41,7 +41,7 @@ privacy_pack = false
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2006"
+date_format = "Mon, Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
@@ -51,7 +51,7 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "terence@terencedorescruz.com"
-phone = "+31 20 59 85966"
+phone = ""
 address = "De Boelelaan 1105, 1081HV Amsterdam, The Netherlands<br/> Main Building (Hoofdgebouw)"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
