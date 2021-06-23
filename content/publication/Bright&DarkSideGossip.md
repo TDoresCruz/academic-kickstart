@@ -33,7 +33,9 @@ summary: "Two studies indicate gossip has positive and negative aspects for coop
 links:
 - name: Journal Link
   url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01374/full
-  # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+- name: PDF
+  url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01374/pdf
+  # url_pdf: '#'
   # url_code: '#'
   # url_dataset: '#'
   # url_poster: '#'

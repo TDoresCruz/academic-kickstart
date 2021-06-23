@@ -29,7 +29,7 @@
   weight = 70
 
 [[main]]
-  name = "Featured Talk"
+  name = "Featured"
   url = "#featured"
   weight = 15
 

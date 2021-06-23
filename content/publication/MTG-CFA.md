@@ -35,6 +35,8 @@ summary: "The Motives to Gossip Questionnaire was extended with an emotion venti
 links:
 - name: Journal Link
   url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01190/full
+- name: PDF
+  url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01190/pdf
   # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
   # url_code: '#'
   # url_dataset: '#'

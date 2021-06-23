@@ -12,10 +12,10 @@ authors:
 - Paul A.M. Van Lange
 - Bianca Beersma
 - Daniel Balliet
-date: "10-01-2020"
+date: "06-03-2021"
 doi: "10.31234/osf.io/y79qk"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2021-06-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PsyArXiv*"
+publication: "*Forthcoming in Philosophical Transactions of the Royal Society B*"
 # publication_short: In *STC*
 
-abstract: "Gossip—a sender communicating to a receiver about an absent third party—is hypothesized to impact reputation formation, partner selection, and cooperation. Lab experiments have found that people gossip about others’ cooperativeness and that they use gossip to condition their cooperation. Here, we move beyond the lab and test several predictions from theories of indirect reciprocity and reputation-based partner selection about the content of gossip in daily life and how people use it to update the reputation of others in their social network. In a Dutch community sample (N = 309), we sampled daily events in which people either sent or received gossip about a target over 10 days (k = 5,154). Gossip senders frequently shared information about a target’s cooperativeness and did so in ways that minimize potential retaliation from targets. Receivers overwhelmingly believed gossip to be true and updated their evaluation of targets based on gossip. In turn, a positive shift in a target’s evaluation led to higher intentions to help them in future interactions, along with lower intentions to avoid them in the future. Thus, gossip is used in daily life to efficiently impact and update reputations in a way that enables partner selection and indirect reciprocity."
+abstract: "Gossip—a sender communicating to a receiver about an absent third party—is hypothesized to impact reputation formation, partner selection, and cooperation. Lab experiments have found that people gossip about others’ cooperativeness and that they use gossip to  condition their cooperation. Here, we move beyond the lab and test several predictions from theories of indirect reciprocity and reputation-based partner selection about the content of everyday gossip and how people use it to update the reputation of others in their social network. In a Dutch community sample (N = 309), we sampled daily events in which people either sent or received gossip about a target over 10 days (n-gossip = 5,284). Gossip senders frequently shared information about targets’ cooperativeness and did so in ways that minimize potential retaliation from targets. Receivers overwhelmingly believed gossip to be true and updated their evaluation of targets based on gossip. In turn, a positive shift in the evaluation of the target was associated with higher intentions to help them in future interactions, and with lower intentions to avoid them in the future. Thus, gossip is used in daily life to impact and update reputations in a way that enables partner selection and indirect reciprocity."
 
 # Summary. An optional shortened abstract.
 summary: "Large experience sampling study showing people use gossip in daily life gossip efficiently impact and update reputations in a way that enables partner selection and indirect reciprocity."
@@ -37,7 +37,7 @@ summary: "Large experience sampling study showing people use gossip in daily lif
 # featured: true
 
 links:
-- name:  Link
+- name:  Preprint
   url: https://psyarxiv.com/y79qk
   url_pdf: https://psyarxiv.com/y79qk/download?format=pdf
   # url_code: '#'

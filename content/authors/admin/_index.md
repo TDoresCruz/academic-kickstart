@@ -79,9 +79,9 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. I study gossip in Bianca Beersma's ERC-Consolidator Grant Project [FORCE-OF-GOSSIP][]. I am also the student-representative for the [Kurt Lewin Institute][]. 
+Terence D. Dores Cruz is a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. Terence studies gossip in Bianca Beersma's ERC-Consolidator Grant Project [FORCE-OF-GOSSIP][]. Terence am also the student-representative for the [Kurt Lewin Institute][]. Until August 2021, Terence is conducting an internship as a Policy Officer at the Dutch Research Council (NWO).
 [FORCE-OF-GOSSIP]: https://bit.ly/force-gossip
 [Kurt Lewin Institute]: https://kurtlewininstituut.nl
 
-Broadly, I am interested in the role of gossip in human cooperative or uncooperative interactions, such as in social or organizational groups. My current work focuses on the selfish or prosocial motives individual gossipers have, and how receivers of gossip react to gossip and attribute these motives to senders. In addition, I am working on a large scale experience sampling study that describes gossip in daily life in light of indirect reciprocity and partner choice (in collaboration with the [Amsterdam Cooperation Lab][]).
+Broadly, Terence is interested in the role of gossip in human cooperative or uncooperative interactions, such as in social or organizational groups. Terence's current work focuses on the selfish or prosocial motives individual gossipers have, and how receivers of gossip react to gossip and attribute these motives to senders. In addition, Terence recently completed a large scale experience sampling study that describes gossip in daily life in light of indirect reciprocity and partner choice (in collaboration with the [Amsterdam Cooperation Lab][]).
 [Amsterdam Cooperation Lab]: https://amsterdamcooperationlab.com
