@@ -31,8 +31,9 @@ tags: []
 featured: True
 
 image:
-  caption: ''
-  focal_point: Center
+  caption: ""
+  focal_point: ""
+  preview_only: "true"
 
 links:
 url_slides: "https://osf.io/jk9gw/"

@@ -79,7 +79,7 @@ email: ""
 # - Visitors
 ---
 
-Terence D. Dores Cruz is a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. Terence studies gossip in Bianca Beersma's ERC-Consolidator Grant Project [FORCE-OF-GOSSIP][]. Terence am also the student-representative for the [Kurt Lewin Institute][]. Until August 2021, Terence is conducting an internship as a Policy Officer at the Dutch Research Council (NWO).
+Terence D. Dores Cruz is a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. Terence studies gossip in Bianca Beersma's ERC-Consolidator Grant Project [FORCE-OF-GOSSIP][]. Terence is also the student-representative for the [Kurt Lewin Institute][]. Until August 2021, Terence is conducting an internship as a Policy Officer at the Dutch Research Council (NWO).
 [FORCE-OF-GOSSIP]: https://bit.ly/force-gossip
 [Kurt Lewin Institute]: https://kurtlewininstituut.nl
 
